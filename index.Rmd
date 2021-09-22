@@ -1,8 +1,8 @@
 ---
-title: "Presentation Ninja"
-subtitle: "⚔<br/>with xaringan"
-author: "Yihui Xie"
-institute: "RStudio, PBC"
+title: "Comparação de modelos para a análise de dados censurados à direita"
+subtitle: "Resumo"
+author: "Lucas Stefano"
+institute: "Departamento de Estatística - UEM"
 date: "2016/12/12 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
