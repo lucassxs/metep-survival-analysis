@@ -3,7 +3,7 @@ title: "Comparação de modelos para a análise de dados censurados à direita �
 subtitle: "Resumo"
 author: "Lucas Stefano"
 institute: "Departamento de Estatística - UEM"
-date: "2016/12/12 (updated: `r Sys.Date()`)"
+date: "27/09/2021"
 output:
   xaringan::moon_reader:
     lib_dir: libs
